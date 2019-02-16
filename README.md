@@ -11,7 +11,11 @@ Se plantea resolver un problema de que implique tiro parabolico mediante la impl
 
 ## Formulas mátmaticas
 
-   <img src="https://latex.codecogs.com/gif.latex?y&space;=&space;x^2" title="y = x^2" />
+   $$
+   y = \frac{v^2 \cdot \sin(\Theta )}{2g}
+   $$
+
+   <img src="https://latex.codecogs.com/png.latex?y&space;=&space;\frac{v^2&space;\cdot&space;\sin(\Theta&space;)}{2g}" title="y = \frac{v^2 \cdot \sin(\Theta )}{2g}" />
 
 ## Restriciónes del programa
 
