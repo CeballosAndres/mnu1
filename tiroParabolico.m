@@ -1,16 +1,17 @@
-% Los comentarios serán el algoritmo
-
-disp('Programa para calcular la altura màxima y el alcance de un objeto en el tiro parabólico.'); 
-%1. Pedir los datos de velocidad inicial (en metros) y el ángulo.
+% Los comentarios serÃ¡n el algoritmo
+disp('Programa para calcular la altura mÃ¡xima y el alcance de un objeto en el tiro parabÃ¡lico.'); 
+%1. Pedir los datos de velocidad inicial (en metros) y el Ã¡ngulo.
 vi = input('Velocidad incial (m) : ');
 a = input('Angulo del tiro: ');
 %El dato de gravedad es una constante g = 9.81m/s^2
 g = 9.81;
 %2. Ingresarlos en las formulas correspondientes
-ymax = (vi^2)*(sin(a)^2)/(2*g); %sin no da bien el valor correcto
+ymax = (vi^2)*(sin(a*pi/180)^2)/(2*g); %sin no da bien el valor correcto
 xmax = ((vi^2)*(sin(a)*2))/g;
+
+
 %3. Mostrar los valores
-fprintf('\n *Alcance del objeto: %g\n *Altura maxima: %f \n', ymax, xmax); 
+printf('\n *Alcance del objeto: %g\n *Altura maxima: %f \n', xmax, ymax); 
 
 
 %DATOS A INGRESAR: 
