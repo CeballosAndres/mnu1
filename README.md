@@ -11,9 +11,7 @@ Se plantea resolver un problema de que implique tiro parabolico mediante la impl
 
 ## Formulas mátmaticas
 
-    $$ 
-        \[y = x^2\]
-    $$
+   <img src="https://latex.codecogs.com/gif.latex?y&space;=&space;x^2" title="y = x^2" />
 
 ## Restriciónes del programa
 
