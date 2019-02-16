@@ -12,7 +12,7 @@ Se plantea resolver un problema de que implique tiro parabolico mediante la impl
 ## Formulas mátmaticas
 
     $$ 
-    sin(x) 
+        \[y = x^2\]
     $$
 
 ## Restriciónes del programa
