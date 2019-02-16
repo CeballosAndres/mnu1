@@ -9,6 +9,8 @@ Se plantea resolver un problema de que implique tiro parabólico mediante la imp
  
 [video](https://youtu.be/YfJzRX78UlM)
 
+ [formulas matemáticas](https://www.codecogs.com/latex/eqneditor.php)
+
 ## Formulas matemáticas
  **Alcance horizontal**
 
