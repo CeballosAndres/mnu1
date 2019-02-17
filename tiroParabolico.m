@@ -2,7 +2,7 @@
 g = 9.81;
 disp('Programa para calcular la altura máxima y el alcance de un objeto en el tiro parabálico.'); 
 %1. Pedir los datos de velocidad inicial (en metros) y el ángulo.
-vi = input('Velocidad incial (m) : ');
+vi = input('Velocidad incial en metros (m/s) : ');
 a = input('Angulo del tiro (grados): ');
 %2. Ingresarlos en las formulas correspondientes
 ymax = (vi * sin(a*pi/180))^2/(2*g); 
