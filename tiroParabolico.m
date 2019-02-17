@@ -14,4 +14,4 @@ printf('\n *Alcance del objeto: %f m\n *Altura maxima: %f m\n', xmax, ymax);
 %% DATOS A INGRESAR: 
 % V = 8.3
 % A = 28
-%SALIDAS : altura: 0.773   alcance: 3.804832
+%SALIDAS *Alcance del objeto: 5.821855 m *Altura maxima: 0.773884 m

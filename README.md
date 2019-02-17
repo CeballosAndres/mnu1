@@ -9,7 +9,7 @@ Se plantea resolver un problema de que implique tiro parabólico mediante la imp
  
 [video](https://youtu.be/YfJzRX78UlM)
 
- [formulas matemáticas](https://www.codecogs.com/latex/eqneditor.php)
+[formulas matemáticas](https://www.codecogs.com/latex/eqneditor.php)
 
 ## Formulas matemáticas
  **Alcance horizontal**
@@ -18,7 +18,7 @@ Se plantea resolver un problema de que implique tiro parabólico mediante la imp
 
  **Altura máxima**
 
-<img src="https://latex.codecogs.com/gif.latex?h&space;=&space;\frac{v_{i}^2&space;\cdot&space;\sin^{2}(\Theta&space;)}{2g}" title="h = \frac{v_{i}^2 \cdot \sin^{2}(\Theta )}{2g}" />
+<img src="https://latex.codecogs.com/gif.latex?x_{max}&space;=&space;\frac{v_{i}^2&space;\cdot&space;\sin(2\Theta&space;)}{g}" title="x_{max} = \frac{v_{i}^2 \cdot \sin(2\Theta )}{g}" />
 
 
 ## Restriciones del programa
