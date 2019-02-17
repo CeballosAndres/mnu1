@@ -18,7 +18,7 @@ Se plantea resolver un problema de que implique tiro parabólico mediante la imp
 
  **Altura máxima**
 
-<img src="https://latex.codecogs.com/gif.latex?x_{max}&space;=&space;\frac{v_{i}^2&space;\cdot&space;\sin(2\Theta&space;)}{2g}" title="x_{max} = \frac{v_{i}^2 \cdot \sin(2\Theta )}{2g}" />
+<img src="https://latex.codecogs.com/gif.latex?y_{max}&space;=&space;\frac{v_{i}^2&space;\cdot&space;\sin(2\Theta&space;)}{2g}" title="y_{max} = \frac{v_{i}^2 \cdot \sin(2\Theta )}{2g}" />
 
 
 ## Restriciones del programa
