@@ -25,7 +25,7 @@ plot(x,y);
 
 
 %3. Mostrar los valores
-printf('\n *Alcance del objeto: %f m\n *Altura maxima: %f m\n*tiempo  en el aire: %f s', xmax, ymax,tiempo); 
+printf('\n *Alcance del objeto: %f m\n *Altura maxima: %f m\n*tiempo  en el aire: %f s\n', xmax, ymax, tiempo); 
 
 
 
